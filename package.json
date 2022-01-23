@@ -1,6 +1,6 @@
 {
   "name": "@nodestrap/spacers",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A spacing management system for web components using css variables (css custom properties).",
   "type": "module",
   "main": "dist/spacers.js",
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/nodestrap/spacers#readme",
   "dependencies": {
-    "@cssfn/css-config": "^1.0.1",
-    "@cssfn/css-types": "^1.0.2"
+    "@cssfn/css-config": "^1.0.4",
+    "@cssfn/css-types": "^1.0.4"
   }
 }
